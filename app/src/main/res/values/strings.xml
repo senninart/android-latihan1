@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">10119232Latihan1</string>
+
+    <string name="digiteam"><b>DigiTeam</b></string>
+    <string name="digi_description">Digital Together Everyone Achieve More\nJabar Digital Service</string>
+    <string name="nama"><b>Dias Eka Fredianto, S.Kom, B.IT</b></string>
+    <string name="jobdesc">UI Designer</string>
+
+    <string name="jam_kerja_bulan"><b>Jam Kerja Bulan Ini</b></string>
+    <string name="jam_kerja"><b>Jam kerja kamu bulan ini: 130.53 Jam</b></string>
+    <string name="waktu_jam_kerja"><b>130.53 Jam</b></string>
+    <string name="batas_jam_kerja">Batas Minimum Jam Kerja 170jam/bulan</string>
+    <string name="checkin">Checkin</string>
+
+    <string name="laporankamu"><b>Laporan Kamu</b></string>
+    <string name="maret"><b>Maret</b></string>
+    <string name="april"><b>April</b></string>
+    <string name="buatlaporan">Buat Laporan</string>
+
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+
+</resources>
